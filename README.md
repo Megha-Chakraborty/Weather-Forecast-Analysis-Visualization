@@ -85,12 +85,4 @@ numpy for support of large, multi-dimensional arrays and matrices.
 Contact
 
 For any questions or suggestions, feel free to contact me via GitHub Issues.
-```bash
 
-### Troubleshooting:
-- **Check for Missing Backticks**: Ensure each code block has matching triple backticks before and after it.
-- **Add Blank Lines**: Make sure there’s a blank line before and after each code block.
-- **Review Markdown Rendering**: If you’re using a Markdown editor or GitHub preview, check how it renders to ensure code blocks and text are displayed correctly.
-
-By following these steps, you should be able to ensure that your README displays code blocks and text correctly.
-```
